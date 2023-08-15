@@ -6,4 +6,4 @@ Instruct users to run the install_dependencies.bat. This will cover the prereq f
 
 Once that completes, user then run PIP_Check.py.
 It will open a file explorer window for the user to select the python program to examine.
-The PIP_Check.py will install needed packages, and not the process in the log.txt
+The PIP_Check.py will install needed packages, and note the process in the log.txt
